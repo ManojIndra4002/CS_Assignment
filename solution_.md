@@ -5,3 +5,5 @@ JT Harvey, Applied Ergonomics, 2002
 DW Ziegler et al., 2005
 
 <img width="589" height="455" alt="Wo_beer" src="https://github.com/user-attachments/assets/42e458fd-c7c4-4f8c-971a-fd99da96d622" />
+
+This image shows the correlation between the amount of students in university education with the total beer consumption in the Netherlands. As can be derived from the image, a higher amount of students is associated with a higher amount of beer consumption
